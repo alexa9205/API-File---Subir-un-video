@@ -1,0 +1,25 @@
+
+ body{
+     text-align: center;
+     background-color: rgb(235, 228, 168);
+ }
+ h1{
+     background-color: brown;
+ }
+
+ .progress-bar {
+    text-align: center;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    border: 6px solid rgb(133, 7, 95) ;
+    border-radius: 14px;
+    background-color: rgb(238, 81, 70);
+ } 
+ #input-tag,
+.boton{
+    background-color: rgb(219, 112, 112);
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(14, 13, 13);
+    font-weight: 700;
+}
